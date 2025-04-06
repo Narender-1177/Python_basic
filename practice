@@ -1,0 +1,22 @@
+def maximum(x,y,z):   
+     print(max([x,y,z]))  
+    
+maximum(20,30,40)
+
+#---------------
+
+def maximum(x,y,z):   
+     print(min([x,y,z]))  
+    
+maximum(20,30,40)
+
+#----------------------------------
+
+def total (List6):
+    sum=0
+    for i in List6:
+        sum=sum+i
+    print (sum)
+
+
+
